@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# DSTORE
+.DS_Store
+
+# Data files
+data/

@@ -1,0 +1,12 @@
+{
+  "LR": {
+    "num_trials": 1
+  },
+  "Ridge": {
+    "num_trials": 20
+  },
+  "XGB": {
+    "num_trials": 40,
+    "num_boost_round": 20
+  }
+}
